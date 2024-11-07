@@ -4,7 +4,7 @@ Hello! I'm AX2, a cybersecurity student with a passion for diving deep into the 
 
 ## 🐬 Get in Touch
 - **Discord** [The Hatchery](https://discord.gg/aaq75zabYm)
-- **LinkedIn:** [Aidan M. Martin](https://www.linkedin.com/in/aidan-m-martin)
+- **LinkedIn:** [Aidan Martin](https://www.linkedin.com/in/aidan-m-martin)
 - **Email:** [ax2-dev@proton.me](mailto:ax2-dev@proton.me)
 
 Let's connect and explore the depths of cybersecurity together!
