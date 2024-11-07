@@ -1,4 +1,4 @@
-# Welcome to AX2's GitHub Aquarium! 🐟
+# Welcome to the Aquarium! 🐟
 
 Hello! I'm AX2, a cybersecurity student with a passion for diving deep into the digital ocean to uncover and mitigate cyber threats. Currently navigating through college, I'm honing my skills to become a proficient defender in the vast sea of cybersecurity.
 
